@@ -77,7 +77,7 @@ function App({ signOut }) {
             required
           />
           <Button type="submit" variation="primary">
-            Create Note
+            Create Note!
           </Button>
         </Flex>
       </View>
